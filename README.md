@@ -262,6 +262,13 @@ plt.show()
 <img width="803" height="460" alt="image" src="https://github.com/user-attachments/assets/83a2d942-0f14-4026-980d-1d28074d822e" />
 
 
+
+
+## SUMMARY:
+
+[DS_EXP_3 Summary Encoding and Skewness Transformation.pdf](https://github.com/user-attachments/files/35326369/DS_EXP_3.Summary.Encoding.and.Skewness.Transformation.pdf)
+
+
       
 # RESULT:
       
